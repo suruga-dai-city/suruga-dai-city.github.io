@@ -1,0 +1,113 @@
+{
+ "viewpoints": [
+  {
+   "id": "school",
+   "name": "青島北小学校",
+   "note": "小学校は今のまま残します。前を通るシンボルロードが広い並木道に変わります。",
+   "mode": "fly",
+   "eye": [
+    330,
+    40
+   ],
+   "eye_h": 28,
+   "target": [
+    300,
+    -150,
+    66
+   ],
+   "aerial": "school_aerial.jpg",
+   "aerial_center": [
+    316.27,
+    -45.21
+   ],
+   "aerial_mpp": 0.49
+  },
+  {
+   "id": "pond",
+   "name": "貯水池",
+   "note": "駿河台の真ん中の池。今は四角い貯水池ですが、未来では池のまわりを緑の公園にしています。",
+   "mode": "fly",
+   "eye": [
+    400,
+    30
+   ],
+   "eye_h": 26,
+   "target": [
+    486,
+    129,
+    29
+   ],
+   "aerial": "pond_aerial.jpg",
+   "aerial_center": [
+    438.23,
+    74.58
+   ],
+   "aerial_mpp": 0.49
+  },
+  {
+   "id": "hospital",
+   "name": "藤枝市立総合病院",
+   "note": "病院は今のまま残します。シンボルロード側から見た姿です。",
+   "mode": "fly",
+   "eye": [
+    -110,
+    -140
+   ],
+   "eye_h": 26,
+   "target": [
+    -285,
+    -90,
+    72
+   ],
+   "aerial": "hospital_aerial.jpg",
+   "aerial_center": [
+    -189.12,
+    -117.11
+   ],
+   "aerial_mpp": 0.49
+  },
+  {
+   "id": "koban",
+   "name": "駿河台交番から見上げる",
+   "note": "坂の下の交番の前から、シンボルロードと小学校のある坂の上を見上げます。",
+   "mode": "walk",
+   "eye": [
+    624,
+    -30
+   ],
+   "target": [
+    300,
+    -60,
+    64
+   ],
+   "aerial": "koban_aerial.jpg",
+   "aerial_center": [
+    478.14,
+    -43.2
+   ],
+   "aerial_mpp": 0.49
+  },
+  {
+   "id": "south_road",
+   "name": "南から上がる道",
+   "note": "滝ヶ谷公園の南を通る市道水上内瀬戸線。下から駿河台へ上がっていく坂道です。",
+   "mode": "fly",
+   "eye": [
+    452,
+    -540
+   ],
+   "eye_h": 8,
+   "target": [
+    300,
+    -519,
+    40
+   ],
+   "aerial": "south_road_aerial.jpg",
+   "aerial_center": [
+    383.16,
+    -530.25
+   ],
+   "aerial_mpp": 0.49
+  }
+ ]
+}
